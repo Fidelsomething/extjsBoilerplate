@@ -92,3 +92,6 @@ Such overrides, while automatically required, will only be included if their tar
 class ("Ext.foo.Bar" in this case) is also required. This simplifies applying
 patches or extensions to other classes.
 
+To run:
+Install Sencha cmd and run locally with :
+sencha app watch
